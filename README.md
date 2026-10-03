@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of flagrow/flarum-ext-latex.** Not for installation: use [Packagist](https://packagist.org/packages/flagrow/flarum-ext-latex) or the [upstream repository](https://github.com/flagrow/flarum-ext-latex).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/flagrow-flarum-ext-latex/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/flagrow-flarum-ext-latex/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-01-14 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/flagrow-flarum-ext-latex/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-04-01 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/flagrow-flarum-ext-latex/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/flagrow-flarum-ext-latex.json](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-flarum-ext-latex.json)
 
